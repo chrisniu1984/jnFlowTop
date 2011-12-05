@@ -1,0 +1,3 @@
+Md5.o: Md5.c Md5.h
+
+Md5.h:
